@@ -1,0 +1,172 @@
+[
+  {
+    "id": "story_seed_rock",
+    "title": "The Seed and the Rock",
+    "difficulty_tags": ["beginning", "overwhelm", "ineffective_approach"],
+    "summary": "A tiny seed discovers that when direct upward growth is blocked by a heavy rock, finding a sideways path toward the sunlight yields a thriving bloom.",
+    "takeaway": "You don't always have to remove the obstacle. Sometimes you can change your approach.",
+    "reflection_question": "Is there another way into the task you're facing?",
+    "suggested_next_actions": ["Change approach", "Hear another story", "Try a short reset", "Return to task"],
+    "narration_language": "en-US",
+    "estimated_reading_time_minutes": 2,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "title": "The Upward Barrier",
+        "description": "Deep within the rich brown soil, a tiny green seed wakes up and pushes upward toward the sky, but encounters an immovable, solid gray stone.",
+        "narration_text": "A tiny seed rested beneath the cool earth, eager to reach the open sky. It pushed straight upward with all its strength, but its tender sprout struck a heavy gray rock. Day after day, it pressed upward, yet the rock remained unyielding and solid.",
+        "visual_key": "seed_blocked"
+      },
+      {
+        "scene_number": 2,
+        "title": "The Sunlit Gap",
+        "description": "The sprout pauses, eases its upward tension, and senses moisture and a narrow beam of warm golden light slipping through a seam to the left.",
+        "narration_text": "Exhausted from pushing against the stone, the sprout rested and quieted its striving. In that still moment, it noticed a cool draft and a narrow glimmer of warm golden light slipping into the moist soil beside the rock. There was a gentle, open path around the side.",
+        "visual_key": "seed_sideways"
+      },
+      {
+        "scene_number": 3,
+        "title": "The Sideways Bloom",
+        "description": "The green shoot winds gently around the rock's edge, breaks through into open sunlight, and uncurls fresh leaves and bright yellow petals.",
+        "narration_text": "Instead of exhausting itself against the stone, the sprout curved gracefully sideways through the soft loam. It followed the warmth, cleared the granite shoulder, and burst into the bright morning sun, unfurling vibrant leaves and a golden blossom beside the very rock that once stood in its way.",
+        "visual_key": "seed_blooming"
+      }
+    ]
+  },
+  {
+    "id": "story_river_route",
+    "title": "The River That Took Another Route",
+    "difficulty_tags": ["ineffective_approach", "overwhelm"],
+    "summary": "A young mountain stream meets a towering cliff wall and discovers that flowing around the bend preserves its vitality far better than battering the stone.",
+    "takeaway": "Changing your method is a valid way forward.",
+    "reflection_question": "What could you approach differently?",
+    "suggested_next_actions": ["Change approach", "Try another method", "Visit Reset Room", "Return to task"],
+    "narration_language": "en-US",
+    "estimated_reading_time_minutes": 2,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "title": "The Wall of Stone",
+        "description": "A brisk crystalline stream flows down the pine valley until it collides abruptly with a shear wall of ancient shale.",
+        "narration_text": "High in the misted hills, a spirited young stream rushed down the mountain slope with cheerful speed. Suddenly, a colossal wall of dark shale rose directly across its channel. The water splashed furiously against the stone, foaming and scattering, yet making no impression on the wall.",
+        "visual_key": "river_blocked"
+      },
+      {
+        "scene_number": 2,
+        "title": "Gathering in the Quiet Pool",
+        "description": "Rather than slamming into the rock repeatedly, the water settles into a tranquil deep pool and finds an easy channel between two mossy boulders.",
+        "narration_text": "Seeing that battering the mountain only drained its momentum, the water slowed down and collected into a deep, serene emerald pool. As it rose quietly, it discovered an unassuming dip between two moss-covered boulders on the valley's western curve.",
+        "visual_key": "river_pooling"
+      },
+      {
+        "scene_number": 3,
+        "title": "The Flowing Journey",
+        "description": "The river spills effortlessly along the gentler green contour, singing through the reeds toward the ocean.",
+        "narration_text": "The stream poured smoothly over the low ridge, carving a fresh and fertile path through the whispering reeds. It did not conquer the wall by brute force; it honored the landscape and kept flowing on its true journey toward the sea.",
+        "visual_key": "river_flowing"
+      }
+    ]
+  },
+  {
+    "id": "story_smallest_tree",
+    "title": "The Smallest Tree",
+    "difficulty_tags": ["perfectionism", "distraction"],
+    "summary": "A young sapling learns that unseen root depth and steady pacing create quiet resilience, regardless of how tall neighboring trees appear.",
+    "takeaway": "Someone else's pace doesn't define your progress.",
+    "reflection_question": "What would progress look like at your own pace today?",
+    "suggested_next_actions": ["Return to task", "Try a short reset", "Change approach", "Hear another story"],
+    "narration_language": "en-US",
+    "estimated_reading_time_minutes": 2,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "title": "Standing in the Tall Shadows",
+        "description": "A slender sapling looks up at the towering oaks with wide canopy branches reaching high into the sky.",
+        "narration_text": "In a peaceful ancient woodland, a young birch sapling stood surrounded by towering centuries-old oaks. Looking up at their sweeping canopies, the birch felt diminutive and behind, wondering why its own branches grew so slowly while others seemed to touch the clouds.",
+        "visual_key": "tree_shadow"
+      },
+      {
+        "scene_number": 2,
+        "title": "Roots in the Deep Earth",
+        "description": "Below the soil surface, white resilient taproots anchor firmly around granite stones and drink cool underground springs.",
+        "narration_text": "What the sapling could not see was beneath the forest floor. While its crown grew modestly, its underground taproots were delving deep into the nourishing earth, anchoring quietly around steady stones and drinking from pristine subterranean springs.",
+        "visual_key": "tree_roots"
+      },
+      {
+        "scene_number": 3,
+        "title": "Grace in the Breeze",
+        "description": "A sudden gust of wind sweeps the ridge; the tall trees creak under stress, while the flexible birch sways gracefully, grounded and secure.",
+        "narration_text": "When the autumn gale swept across the clearing, the rigid giants groaned under the wind's immense strain. The supple birch, securely rooted at its own pace, swayed gracefully with the air. It knew now that quiet, steady growth is every bit as real as rapid height.",
+        "visual_key": "tree_breeze"
+      }
+    ]
+  },
+  {
+    "id": "story_flower_rain",
+    "title": "The Flower After the Rain",
+    "difficulty_tags": ["low_energy", "break"],
+    "summary": "A garden flower closes its petals during dry, scorching heat, allowing restorative rain to nourish it so it can bloom when conditions are kind.",
+    "takeaway": "Rest can be part of continuing, not the opposite of it.",
+    "reflection_question": "Would rest or a gentler next step help more right now?",
+    "suggested_next_actions": ["Visit Reset Room", "Take a break", "Hear another story", "Return to task"],
+    "narration_language": "en-US",
+    "estimated_reading_time_minutes": 2,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "title": "The Dry Afternoon",
+        "description": "Under an intense afternoon sun, dry soil cracks lightly and a soft wildflower droops its stem to conserve water.",
+        "narration_text": "The midday sun beat down mercilessly upon the open clearing. The little wildflower felt its energy waning, its stem growing soft. Rather than expending its last reserves trying to force an open posture in the scorching heat, it folded its petals inward to protect its core.",
+        "visual_key": "flower_wilting"
+      },
+      {
+        "scene_number": 2,
+        "title": "The Cooling Shower",
+        "description": "Gentle gray clouds drift overhead, bringing soft droplets that quench the soil and replenish the petals.",
+        "narration_text": "By late afternoon, soft gray clouds rolled over the hills, releasing a gentle, rhythmic rain. The earth cooled and breathed in the moisture. The closed flower did not consider itself broken; it drank deeply, resting while the atmosphere restored what the sun had taken.",
+        "visual_key": "flower_rain"
+      },
+      {
+        "scene_number": 3,
+        "title": "Opening to the Gentle Dawn",
+        "description": "Dew glistens on fresh leaves as the flower opens vibrantly in the soft, kind morning air.",
+        "narration_text": "When morning arrived with crisp, gentle air, the blossom reopened with vivid, radiant petals. It had not wasted time by waiting through the drought; it had preserved its vitality to flourish when the environment was ready.",
+        "visual_key": "flower_blooming"
+      }
+    ]
+  },
+  {
+    "id": "story_one_stone",
+    "title": "One Stone at a Time",
+    "difficulty_tags": ["beginning", "overwhelm"],
+    "summary": "Faced with a broad rushing river with mist obscuring the opposite shore, a traveler steps onto just the single visible stone right in front of them.",
+    "takeaway": "You don't need to see the entire route to begin.",
+    "reflection_question": "What is one action you can see from where you are now?",
+    "suggested_next_actions": ["Return to task", "Change approach", "Try a short reset", "Hear another story"],
+    "narration_language": "en-US",
+    "estimated_reading_time_minutes": 2,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "title": "The Mist-Veiled Crossing",
+        "description": "A traveler stands on a sandy riverbank looking at a wide, foaming river shrouded in thick morning fog that conceals the far shore.",
+        "narration_text": "A traveler stood upon the riverbank, peering into the swirling morning mist. The distant shore was completely invisible, and the rushing water seemed wide and forbidding. The sheer scale of the crossing felt impossible, and their boots remained frozen on the sand.",
+        "visual_key": "stone_mist"
+      },
+      {
+        "scene_number": 2,
+        "title": "The Single Stepping Stone",
+        "description": "Looking down, the traveler spots one flat, dry river stone resting firmly just two feet into the water.",
+        "narration_text": "Instead of scanning the horizon for the entire bridge, the traveler looked directly at their feet. Right there, resting firmly in the shallow water, was a single flat river stone. It did not span the whole river, but it was dry, stable, and completely within reach.",
+        "visual_key": "stone_step"
+      },
+      {
+        "scene_number": 3,
+        "title": "The Path Unfolds",
+        "description": "From the first stone, the next stone emerges clearly from the mist, creating a clear chain all the way across.",
+        "narration_text": "The traveler took that single step. As their foot settled onto the stone, the mist cleared just enough to reveal the next stone a stride ahead. Stepping firmly onto one stone at a time, the crossing was accomplished without ever needing to see the full path from the start.",
+        "visual_key": "stone_crossing"
+      }
+    ]
+  }
+]

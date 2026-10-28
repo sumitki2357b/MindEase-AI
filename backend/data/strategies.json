@@ -1,0 +1,110 @@
+[
+  {
+    "id": "strat_micro_step",
+    "title": "The 2-Minute Gateway Step",
+    "difficulty_tags": ["beginning", "overwhelm", "decision_fatigue"],
+    "keywords": ["begin", "start", "starting", "stuck", "blank", "first", "open", "paralysis", "initiation"],
+    "explanation": "Starting is often the hardest friction point. Reducing the opening commitment to a frictionless physical gesture lowers the barrier to entry.",
+    "suggested_action": "Open the file or textbook, write only the date and title, and allow yourself to stop after 120 seconds if you still do not wish to continue.",
+    "safety_note": "Never force a marathon session when task initiation is the primary obstacle."
+  },
+  {
+    "id": "strat_ugly_draft",
+    "title": "Permitted Imperfect Draft",
+    "difficulty_tags": ["perfectionism", "beginning", "overwhelm"],
+    "keywords": ["perfectionism", "wrong", "mistake", "bad", "standard", "fear", "judgement", "flawless", "draft"],
+    "explanation": "Separating content creation from critical evaluation silences the inner editor and allows early momentum.",
+    "suggested_action": "Write three bullet points or a messy, unformatted paragraph that no one else will see. Treat this as disposable exploratory material.",
+    "safety_note": "A rough draft is an active step forward, not a reflection of your intelligence or capability."
+  },
+  {
+    "id": "strat_decision_diet",
+    "title": "Decision De-escalation",
+    "difficulty_tags": ["decision_fatigue", "overwhelm"],
+    "keywords": ["decide", "decision", "choice", "options", "which", "priority", "confused", "too many"],
+    "explanation": "When facing multiple competing priorities, choosing which task to do drains mental energy before work even begins.",
+    "suggested_action": "Pick the item with the earliest deadline. Temporarily hide or cover all other tasks from your field of view for the next 25 minutes.",
+    "safety_note": "Choosing one task does not mean abandoning the others; it protects your current attention."
+  },
+  {
+    "id": "strat_sideways_entry",
+    "title": "The Sideways Entry",
+    "difficulty_tags": ["ineffective_approach", "beginning", "overwhelm"],
+    "keywords": ["approach", "method", "stuck", "blocked", "wall", "different", "sideways", "angle", "alternative"],
+    "explanation": "When the front door of a problem is locked, entering through an adjacent low-stress sub-part creates fresh perspective.",
+    "suggested_action": "Instead of tackling the main argument or problem equation, format your bibliography, rename the variables, or sketch a diagram on scratch paper.",
+    "safety_note": "Any forward movement within the subject domain creates cognitive familiarity."
+  },
+  {
+    "id": "strat_low_battery_mode",
+    "title": "Gentle Maintenance Mode",
+    "difficulty_tags": ["low_energy", "break"],
+    "keywords": ["tired", "exhausted", "low energy", "drained", "sleepy", "burnout", "heavy", "fatigued"],
+    "explanation": "Pushing through acute exhaustion generates compounding frustration and negative association with the subject matter.",
+    "suggested_action": "Switch to passive review: listen to an explanatory clip, skim headings, or rest with eyes closed for 15 minutes without guilt.",
+    "safety_note": "Rest is an active cognitive maintenance phase, not lost or wasted time."
+  },
+  {
+    "id": "strat_environment_reset",
+    "title": "Perceptual Horizon Clear",
+    "difficulty_tags": ["distraction", "overwhelm"],
+    "keywords": ["distracted", "clutter", "phone", "tabs", "noise", "focus", "wandering", "multitasking"],
+    "explanation": "Visual clutter and open digital tabs constantly trigger micro-attentional shifts, fragmenting working memory.",
+    "suggested_action": "Close or minimize all browser tabs except the single active document. Put your phone out of arm's reach or in another room.",
+    "safety_note": "Environmental nudges succeed where raw willpower fatigues."
+  },
+  {
+    "id": "strat_five_minute_boundary",
+    "title": "The Bounded Container",
+    "difficulty_tags": ["distraction", "beginning"],
+    "keywords": ["focus", "time", "clock", "timer", "distraction", "concentrate", "short"],
+    "explanation": "An open-ended task feels like an infinite burden. A firm, short boundary makes the commitment psychologically manageable.",
+    "suggested_action": "Set a timer for exactly 7 minutes. Commit only to staying with the document until the timer sounds.",
+    "safety_note": "You have full agency to stop when the timer finishes."
+  },
+  {
+    "id": "strat_compassionate_reentry",
+    "title": "Compassionate Horizon Re-entry",
+    "difficulty_tags": ["missed_deadline", "overwhelm"],
+    "keywords": ["deadline", "late", "behind", "missed", "guilt", "catch up", "overdue"],
+    "explanation": "Dwelling on a missed deadline triggers shame and avoidance, delaying the resumption of productive work.",
+    "suggested_action": "Acknowledge the current reality without self-blame. Recalculate your timeline based on where things stand right now today.",
+    "safety_note": "The clock cannot be reversed, but the next hour is entirely within your control."
+  },
+  {
+    "id": "strat_sensory_reset",
+    "title": "Sensory Reset & Grounding",
+    "difficulty_tags": ["break", "low_energy", "overwhelm"],
+    "keywords": ["break", "breath", "breathe", "reset", "headache", "screen", "stare", "eyes"],
+    "explanation": "Extended screen time locks eye accommodation and sympathetic nervous arousal, resulting in cognitive tunnel vision.",
+    "suggested_action": "Look out a window at the furthest tree or horizon line for 60 seconds. Drink a glass of cold water and stretch your shoulders.",
+    "safety_note": "Physical state shifts immediately relieve mental saturation."
+  },
+  {
+    "id": "strat_rubber_duck_unpack",
+    "title": "Out-Loud Formulation",
+    "difficulty_tags": ["ineffective_approach", "beginning"],
+    "keywords": ["confused", "explain", "understand", "talk", "verbal", "stuck", "logic"],
+    "explanation": "Translating internal confusion into spoken language engages the auditory processing cortex and clarifies logical gaps.",
+    "suggested_action": "Explain out loud in plain words to an imaginary friend or object what you are trying to solve and where the logic breaks.",
+    "safety_note": "You do not need to sound formal or academic when explaining the obstacle."
+  },
+  {
+    "id": "strat_interruption_anchoring",
+    "title": "Interruption Resumption Anchor",
+    "difficulty_tags": ["interruption", "distraction"],
+    "keywords": ["interrupted", "lost track", "where was i", "resume", "back", "context"],
+    "explanation": "Resuming work after an interruption fails when working memory has purged the immediate next thought.",
+    "suggested_action": "Before stepping away or after resuming, write down the single next sentence or calculation you intended to produce.",
+    "safety_note": "A tiny resumption anchor eliminates context-switching friction."
+  },
+  {
+    "id": "strat_unnecessary_pruning",
+    "title": "Scope De-Scoping",
+    "difficulty_tags": ["overwhelm", "perfectionism"],
+    "keywords": ["too big", "scope", "huge", "massive", "simplify", "cut", "minimum"],
+    "explanation": "Projects bloat when nice-to-have secondary features are treated as mandatory prerequisites.",
+    "suggested_action": "Identify the minimum viable submission or result that satisfies the core requirement and prune the rest for now.",
+    "safety_note": "A finished core assignment is always more valuable than an incomplete masterpiece."
+  }
+]
