@@ -103,7 +103,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
               Team CodeXpress
             </div>
             <p className="text-[10px] text-brand-surface/60 leading-tight">
-              Lead: Sumit Kumar Singh
+              
             </p>
           </div>
           <p className="text-[11px] text-brand-surface/50 leading-relaxed font-sans">
