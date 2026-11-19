@@ -6,8 +6,7 @@
 ---
 
 ## 👥 Team Information — CodeXpress
-- **Team Leader:** Sumit Kumar Singh
-- **Team Members:** Kajal Yadav, Kashish Rai, Madhura Patil
+- Developer- Sumit Kumar Singh
 
 ---
 
